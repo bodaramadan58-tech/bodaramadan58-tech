@@ -21,7 +21,9 @@
 
 ### ⚡ GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bodaramadan58-tech&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bodaramadan58-tech&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
