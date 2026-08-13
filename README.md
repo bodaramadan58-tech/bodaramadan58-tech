@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Abdelrahman 👋 
+### 🚀 Software Engineer | AI & Cybersecurity Specialist
 
-<!--
-**bodaramadan58-tech/bodaramadan58-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+system
+[+] Status: Building scalable AI applications & Security Systems
+[+] Focus: Data Science, Cybersecurity, Systems Engineering```
 
-Here are some ideas to get you started:
+🛡️ Tech Stack & Toolkit
+[ Programming Languages ]
+[ Cybersecurity & Systems ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ GitHub Analytics
+🌐 Connect with Me
